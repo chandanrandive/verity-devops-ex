@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@chandanrandive 
-JeeKayPee
-/
-verity-devops-ex
-Public
-forked from umangsaltuniv/verity-devops-ex
-Fork your own copy of JeeKayPee/verity-devops-ex
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-verity-devops-ex/Jenkinsfile.txt
-@JeeKayPee
-JeeKayPee Update Jenkinsfile.txt
-Latest commit 880df3d 1 minute ago
- History
- 2 contributors
-@umangsaltuniv@JeeKayPee
-75 lines (61 sloc)  1.7 KB
-
 pipeline {
     agent any
     stages {
@@ -103,18 +73,3 @@ pipeline {
 		// ******ALL CODE TO BE ADDED ABOVE THIS COMMENT******
     }
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-verity-devops-ex/Jenkinsfile.txt at master · JeeKayPee/verity-devops-ex
