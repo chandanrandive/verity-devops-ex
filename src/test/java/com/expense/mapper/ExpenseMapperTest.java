@@ -40,7 +40,7 @@ public class ExpenseMapperTest {
 	//Make this @Test to run failing test
 	
 	
-	@Ignore
+	@Test
 	public void negativeTest() {
 
 		ExpenseDTO dto = new ExpenseDTO();
