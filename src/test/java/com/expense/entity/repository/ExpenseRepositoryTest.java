@@ -38,7 +38,7 @@ public class ExpenseRepositoryTest {
 	//Make this @Test to run failing test
 	
 	
-	@Ignore
+	@Test
 	public void testNegative() {
 
 		List<Expense> getExpenses = expenceRepository.findByExpenseHead("Test-Taxi");
